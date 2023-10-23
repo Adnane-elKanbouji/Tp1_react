@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Adnane-elKanbouji/Tp1_react.git/static/css/main.851967e9.css",
-    "main.js": "/Adnane-elKanbouji/Tp1_react.git/static/js/main.0dbeaaf9.js",
-    "static/js/787.38798f68.chunk.js": "/Adnane-elKanbouji/Tp1_react.git/static/js/787.38798f68.chunk.js",
-    "index.html": "/Adnane-elKanbouji/Tp1_react.git/index.html",
-    "main.851967e9.css.map": "/Adnane-elKanbouji/Tp1_react.git/static/css/main.851967e9.css.map",
-    "main.0dbeaaf9.js.map": "/Adnane-elKanbouji/Tp1_react.git/static/js/main.0dbeaaf9.js.map",
-    "787.38798f68.chunk.js.map": "/Adnane-elKanbouji/Tp1_react.git/static/js/787.38798f68.chunk.js.map"
+    "main.css": "/Tp1_react/static/css/main.851967e9.css",
+    "main.js": "/Tp1_react/static/js/main.071ad2dc.js",
+    "static/js/787.38798f68.chunk.js": "/Tp1_react/static/js/787.38798f68.chunk.js",
+    "index.html": "/Tp1_react/index.html",
+    "main.851967e9.css.map": "/Tp1_react/static/css/main.851967e9.css.map",
+    "main.071ad2dc.js.map": "/Tp1_react/static/js/main.071ad2dc.js.map",
+    "787.38798f68.chunk.js.map": "/Tp1_react/static/js/787.38798f68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851967e9.css",
-    "static/js/main.0dbeaaf9.js"
+    "static/js/main.071ad2dc.js"
   ]
 }
